@@ -1,6 +1,6 @@
 ### Hi there 👋 ;
 
-⚡ I'm Mahdi Javidi the javascript junior programmer and I was born in 2006;
+⚡ I'm Mahdi Javidi the javascript junior fullstack programmer and I was born in 2006;
 
 😎 I'm really crazy about programming and I always want to learn more;
 
