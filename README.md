@@ -2,8 +2,6 @@
 
 ⚡ I'm Mahdi Javidi the junior javascript fullstack programmer and I was born in 2006;
 
-😎 I'm really crazy about programming and I always want to learn more;
-
 <!--
 **mahdijz5/mahdijz5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
