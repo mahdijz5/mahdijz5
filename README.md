@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ⚡ I'm Mahdi Javidi the junior javascript fullstack programmer and I was born in 2006;
-<i class="devicon-react-original-wordmark colored"></i>
+<i class="devicon-react-original-wordmark colored">2</i>
 
 <!--
 **mahdijz5/mahdijz5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
