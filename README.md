@@ -1,7 +1,8 @@
 ### Hi there 👋 ;
 
 
-⚡ I'm Mahdi Javidi the junior javascript fullstack programmer and I was born in 2006;
+➖ I'm Mahdi Javidi the junior javascript fullstack programmer;
+<br/>
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,react,nextjs,materialui,bootstrap,mongodb)](https://skillicons.dev)
 
