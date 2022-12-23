@@ -6,4 +6,5 @@
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,react,nextjs,materialui,bootstrap,mongodb)](https://skillicons.dev)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahdijz5&show_icons=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdijz5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
