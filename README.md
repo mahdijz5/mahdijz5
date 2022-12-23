@@ -1,5 +1,6 @@
 ### Hi there 👋 ;
 
+<img src="https://simpleicons.org/icons/darkreader.svg">
 
 ➖ I'm Mahdi Javidi the junior javascript fullstack programmer;
 <br/>
