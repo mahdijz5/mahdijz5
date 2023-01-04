@@ -2,7 +2,7 @@
 
 <img width="50px" height="50px" src="https://simpleicons.org/icons/darkreader.svg">
 
-➖ I'm Mahdi Javidi the junior javascript fullstack programmer;
+➖ I'm Mahdi Javidi the javascript fullstack programmer;
 <br/>
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,js,ts,express,nodejs,react,nextjs,materialui,mongodb)](https://skillicons.dev)
