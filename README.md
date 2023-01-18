@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ### Hi there 👋 ;
 
-<img width="50px" height="50px" src="https://simpleicons.org/icons/darkreader.svg">
+<p align="center"><img width="50px" height="50px" src="https://simpleicons.org/icons/darkreader.svg"></p>
 
 ➖ I'm Mahdi Javidi the javascript fullstack programmer;
 <br/>
