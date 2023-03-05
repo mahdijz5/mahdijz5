@@ -2,7 +2,8 @@
 ### Hi there 👋 ;
 
 
-➖ I'm Mahdi Javidi the javascript fullstack programmer;
+➖ I'm Mahdi Javidi and 17 and As an innovative, creative, and proactive programmer, working in a team environment energizes me, and I'm passionate about contributing my skills to achieve outstanding outcomes. I'm eager to join an organized and professional company where I can bring my skills to the table and work towards common goals with a talented team.
+
 <br/>
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,js,ts,react,nextjs,materialui,nodejs,express,nestjs,mongodb)](https://skillicons.dev)
