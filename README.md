@@ -2,7 +2,7 @@
 ### Hi there 👋 ;
 
 
-➖ I'm Mahdi Javidi and 17 and as an innovative, creative, and proactive programmer, working in a team environment energizes me, and I'm passionate about contributing my skills to achieve outstanding outcomes. I'm eager to join an organized and professional company where I can bring my skills to the table and work towards common goals with a talented team.
+➖ I'm Mahdi Javidi and 17 and as an innovative and creative programmer, working in a team environment energizes me, and I'm passionate about contributing my skills to achieve outstanding outcomes. I'm eager to join an organized and professional company where I can bring my skills to the table and work towards common goals with a talented team.
 
 <br/>
 <br/>
