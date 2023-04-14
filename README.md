@@ -1,21 +1,38 @@
 <!--START_SECTION:waka-->
-### Hi there 👋 ;
 
 
-➖ I'm Mahdi Javidi and 17 years old and as an innovative and creative programmer, working in a team environment energizes me, and I'm passionate about contributing my skills to achieve outstanding outcomes. I'm eager to join an organized and professional company where I can bring my skills to the table and work towards common goals with a talented team.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+ 
+ <div  align="center">
+ <h1> Hey there 👋</h1>
+</div>
+ 
+ <div id="banner" align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%"/>
+</div>
+ 
 
-<br/>
-<br/>
+<hr>
 
+### :man_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+- :telescope: I’m working as a Software Engineer and contributing to backend side of web applications.
+
+- :seedling: Learning new technologies.
+
+<hr>
+
+### 🛠 Languages and tools :
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,nodejs,express,nestjs,mongodb,postgres,docker,)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdijz5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
-<p align="center">
+<hr>
 
- 
-  
-</p>
-<!--END_SECTION:waka-->
+### 🔥 My stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahdijz5&theme=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdijz5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
