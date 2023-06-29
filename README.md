@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-<!-- 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Learning new technologies.
 
-<hr> -->
+<hr>
 
 ### 🛠 Languages and tools :
 
@@ -32,7 +32,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <hr>
 
 ### 🔥 My stats :
-
+<div disp>
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mahdijz5&theme=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdijz5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
