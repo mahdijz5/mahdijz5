@@ -13,10 +13,12 @@
 ### :man_technologist: About Me :
 
 I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-- :telescope: I’m working as a Software Engineer and contributing to backend side of web applications.
+ 
+:telescope: Backend Developer
+-  Experienced in building microservices with NestJS, Postgres, and MongoDB. Currently working on high-stakes backend projects at a private company.
 
-- :seedling: Learning new technologies.
-
+⚡ Blockchain Enthusiast
+-   Diving into blockchain tech, with a focus on creating secure, scalable apps. Always up for collaboration and new challenges in the space.
 <hr>
 
 ### 🛠 Languages and tools :
