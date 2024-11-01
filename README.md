@@ -18,7 +18,7 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 -  Experienced in building microservices with NestJS, Postgres, and MongoDB. Currently working on high-stakes backend projects at a private company.
 
 ⚡ Blockchain Enthusiast
--   Diving into blockchain tech, with a focus on creating secure, scalable apps. Always up for collaboration and new challenges in the space.
+-   Skilled in creating secure, scalable Web3 applications. Always keen to collaborate on ambitious projects.
 <hr>
 
 ### 🛠 Languages and tools :
