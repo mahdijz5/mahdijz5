@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  
 :telescope: Backend Developer
 -  Experienced in building microservices with NestJS, Postgres, and MongoDB. Currently working on high-stakes backend projects at a private company.
