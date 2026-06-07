@@ -23,7 +23,7 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 🛠 Languages and tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,materialui,nodejs,express,nestjs,mongodb,redis,postgres,elasticsearch,docker,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nestjs,mongodb,redis,postgres,elasticsearch,docker,rabbitmq)](https://skillicons.dev)
 
 <hr>
 
